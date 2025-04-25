@@ -9,3 +9,18 @@ body{
     font-size: 16px; /*Definir o tamanho da fonte base*/
     font-family: 'Montserrat';/*Define o tamnho da fonte principal do site*/
 }
+
+header{
+    background-color: #ffffff;/*Fundo branco para o cabeçalho*/   
+}
+
+/*Seções Gerais*/
+section{
+    padding-bottom: 5rem; /*Espaçamento inferior grande para seções*/
+}
+
+/*Links de Navegação*/
+.nav-link{
+    color: #CB6D43; /*Cor marrom-alaranjada para os link*/
+    font-weight: 600; /*Texto em negrito*/
+}
